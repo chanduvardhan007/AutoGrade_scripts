@@ -1,0 +1,192 @@
+﻿1 Calculator
+        2 Bookstore System
+        0 Exit/Quit
+        
+2
+
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        0 Return to main menu
+        
+1
+Introduce the name of the file: books.txt
+Loading 542684 books in 2.806487560272217 seconds
+
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        0 Return to main menu
+        
+5
+Introduce the query to search: Trees
+Enter max number of results: 15
+-------------------------
+
+
+        Book: 0393311007
+        Title: Two Trees: Poems
+        Group: Book
+        Rank: 1183783
+
+
+-------------------------
+
+
+        Book: 0786813571
+        Title: Sees Behind Trees
+        Group: Book
+        Rank: 167430
+
+
+-------------------------
+
+
+        Book: 0827606710
+        Title: Trees, Earth, and Torah: A Tu B'Shvat Anthology
+        Group: Book
+        Rank: 754086
+
+
+-------------------------
+
+
+        Book: 0486203956
+        Title: Trees of the Eastern and Central United States and Canada
+        Group: Book
+        Rank: 448671
+
+
+-------------------------
+
+
+        Book: B00005KA7D
+        Title: The Legend of the Three Trees
+        Group: Video
+        Rank: 26708
+
+
+-------------------------
+
+
+        Book: 1583551743
+        Title: New England Trees & Wildflowers (Pocket Naturalist)
+        Group: Book
+        Rank: 325456
+
+
+-------------------------
+
+
+        Book: 1561640018
+        Title: Growing Family Fruit and Nut Trees (Reference and Field Guides (Paperback))
+        Group: Book
+        Rank: 533035
+
+
+-------------------------
+
+
+        Book: 0943563097
+        Title: Modern Arboriculture: A Systems Approach to the Care of Trees and Their Associates
+        Group: Book
+        Rank: 494372
+
+
+-------------------------
+
+
+        Book: 0804834202
+        Title: Totally Bonsai: A Guide to Growing, Shaping, and Caring for Miniature Trees and Shrubs
+        Group: Book
+        Rank: 95410
+
+
+-------------------------
+
+
+        Book: 0805038612
+        Title: Easy Care Native Plants : A Guide to Selecting and Using Beautiful American Flowers, Shrubs, and Trees in Gardens and Landscapes
+        Group: Book
+        Rank: 558080
+
+
+-------------------------
+
+
+        Book: 0395904552
+        Title: A Field Guide to Eastern Trees (Peterson Field Guides)
+        Group: Book
+        Rank: 13647
+
+
+-------------------------
+
+
+        Book: 1570625387
+        Title: The Man Who Planted Trees
+        Group: Book
+        Rank: 137252
+
+
+-------------------------
+
+
+        Book: 0813921147
+        Title: Trees and Shrubs of Virginia
+        Group: Book
+        Rank: 138095
+
+
+-------------------------
+
+
+        Book: 1563525968
+        Title: Trees For the South; A Complete Guide to Growing Trees in the South
+        Group: Book
+        Rank: 1034132
+
+
+-------------------------
+
+
+        Book: 0520215419
+        Title: Plants of the Tahoe Basin: Flowering Plants, Trees, and Ferns
+        Group: Book
+        Rank: 194841
+
+
+Infix Matches: 15
+searchBookByInfix Completed in 0.021940231323242188 seconds
+
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        0 Return to main menu
+        
+0
+
+
+        1 Calculator
+        2 Bookstore System
+        0 Exit/Quit
+        
+0
+
+
+Process finished with exit code 0
