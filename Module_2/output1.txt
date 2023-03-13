@@ -1,0 +1,80 @@
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+Introduce the name of the file: Loading 27134 books in 0.1094045639038086 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+Introduce the index to add to shopping cart: Added to shopping cart 
+	Book: 1575669064
+	Title: The Visitor's Boo
+	Group: Book
+	Rank: 2032252 
+0.0010113716125488281 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+Introduce the index to add to shopping cart: Added to shopping cart 
+	Book: 6304525729
+	Title: National Geographic's Killer Wave: Power of the Tsunami
+	Group: Video
+	Rank: 14454 
+0.0010089874267578125 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        

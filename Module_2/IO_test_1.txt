@@ -1,0 +1,149 @@
+	  1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+2
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+1
+Introduce the name of the file: books_15.txt
+Loading 27134 books in 0.1466078758239746 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+3
+Introduce the index to add to shopping cart: 5838
+Added to shopping cart 
+	Book: 1575669064
+	Title: The Visitor's Book
+	Group: Book
+	Rank: 2032252 
+0.000997781753540039 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+3
+Introduce the index to add to shopping cart: 15501
+Added to shopping cart 
+	Book: 6304525729
+	Title: National Geographic's Killer Wave: Power of the Tsunami
+	Group: Video
+	Rank: 14454 
+0.0019991397857666016 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+3
+Introduce the index to add to shopping cart: 23295
+Added to shopping cart 
+	Book: 1584650907
+	Title: Erasure: A Novel
+	Group: Book
+	Rank: 447204 
+0.001007080078125 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+3
+Introduce the index to add to shopping cart: 13015
+Added to shopping cart 
+	Book: 1580861458
+	Title: Starting Ballet: Kid Kits (Usborne First Skills)
+	Group: Book
+	Rank: 611674 
+0.001995563507080078 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+3
+Introduce the index to add to shopping cart: 16701
+Added to shopping cart 
+	Book: 0684811634
+	Title: Learn to Earn : A Beginner's Guide to the Basics of Investing and Business
+	Group: Book
+	Rank: 3781 
+0.001989126205444336 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+6
+getCartBestSeller returned 
+The Visitor's Book 
+Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        0 Return to main menu
+        
+0
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+0
