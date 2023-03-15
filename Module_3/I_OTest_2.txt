@@ -1,0 +1,192 @@
+1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+2
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+1
+Introduce the name of the file: books_10.txt
+Loading 27134 books in 0.9276270866394043 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+7
+Introduce the book key: 0393040747
+Added title: Music in Western Civilization
+addBookByKey Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+7
+Introduce the book key: B00004Y7EK
+Added title: Pure Beauties: JP Cover Girls
+addBookByKey Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+7
+Introduce the book key: 0722532849
+Added title: Questioning Krishnamurti: J. Krishnamurti in Dialogue
+addBookByKey Completed in 0.0019989013671875 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+7
+Introduce the book key: 0520234693
+Added title: Denying History: Who Says Holocaust Never Happened and Why Do They Say It (S. Mark Taper Foundation Imprint in Jewish Studies)
+addBookByKey Completed in 0.0010046958923339844 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+4
+removeFromShoppingCart 
+	Book: 0393040747
+	Title: Pure Beauties: JP Cover Girls
+	Group: Book
+	Rank: 168237 Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+4
+removeFromShoppingCart 
+	Book: B00004Y7EK
+	Title: Music in Western Civilization
+	Group: DVD
+	Rank: 38902 Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+4
+removeFromShoppingCart 
+	Book: 0722532849
+	Title: Questioning Krishnamurti: J. Krishnamurti in Dialogue
+	Group: Book
+	Rank: 395742 Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+4
+removeFromShoppingCart 
+	Book: 0520234693
+	Title: Denying History: Who Says Holocaust Never Happened and Why Do They Say It (S. Mark Taper Foundation Imprint in Jewish Studies)
+	Group: Book
+	Rank: 97896 Completed in 0.0 seconds
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+4
+
+        s FIFO shopping cart
+        r Random shopping cart
+        1 Load book catalog
+        2 Remove a book by index from catalog
+        3 Add a book by index to shopping cart
+        4 Remove from the shopping cart
+        5 Search book by infix
+        6 Get cart best-seller
+        7 Add a book by key to shopping cart
+        0 Return to main menu
+        
+0
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+        
+0
+
+Process finished with exit code 0

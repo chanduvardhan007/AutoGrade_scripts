@@ -1,0 +1,36 @@
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
+
+
+        1 Check mathematical expression
+        2 Store variable values
+        3 Print expression with values
+        0 Return to main menu
+
+Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N Enter a variable: Enter its value: Enter another variable? Y/N
+        1 Check mathematical expression
+        2 Store variable values
+        3 Print expression with values
+        0 Return to main menu
+
+Introduce the mathematical expression: ((-5.2/beta1) + (alpha2/10.3))+c
+
+        1 Check mathematical expression
+        2 Store variable values
+        3 Print expression with values
+        0 Return to main menu
+
+Introduce the mathematical expression: Invalid expression
+
+        1 Check mathematical expression
+        2 Store variable values
+        3 Print expression with values
+        0 Return to main menu
+
+
+        1 Calculator
+        2 Bookstore System
+        3 Palindrome Test
+        0 Exit/Quit
